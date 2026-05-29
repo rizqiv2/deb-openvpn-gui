@@ -14,10 +14,10 @@ Ubuntu/Debian example:
 sudo apt install python3-tk openvpn policykit-1
 ```
 
-## Run
+## Install
 
 ```bash
-python3 openvpngui.py
+sudo dpkg -i openvpngui_1.0.0_all.deb
 ```
 
 ## Use
