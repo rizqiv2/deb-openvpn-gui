@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=OpenVPN GUI
+Comment=Import and connect OpenVPN profiles
+Exec=openvpngui
+Icon=openvpngui
+Terminal=false
+Type=Application
+Categories=Settings;Security;
+Keywords=VPN;OpenVPN;Network;
+StartupNotify=true

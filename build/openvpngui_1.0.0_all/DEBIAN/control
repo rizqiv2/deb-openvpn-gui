@@ -1,0 +1,10 @@
+Package: openvpngui
+Version: 1.0.0
+Section: net
+Priority: optional
+Architecture: all
+Depends: python3, python3-tk, openvpn, pkexec | policykit-1 | polkitd | sudo
+Maintainer: Rizqi <rizqiv2@localhost>
+Description: Small Tkinter OpenVPN profile manager
+ A simple Linux GUI for importing OpenVPN profiles and connecting or
+ disconnecting OpenVPN tunnels.
